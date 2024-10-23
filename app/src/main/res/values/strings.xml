@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">30 Days App</string>
+    <string name="app_name">30 Days of Wellness</string>
+    <string name="card_image">Image</string>
+    <string name="card_day">Day</string>
+    <string name="card_title">Title</string>
+    <string name="card_content">Contents</string>
 </resources>
